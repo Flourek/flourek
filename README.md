@@ -2,3 +2,5 @@
 
 
 I like to code stuff
+
+Bachelor's Degree in Human Computer Interaction (Elektroniczne Przetwarzanie Informacji)
